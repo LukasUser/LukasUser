@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1216" height="210" viewBox="0 0 1216 210" role="img" aria-label="Impact at Atlantic Packaging">
+  <title>At Atlantic Packaging</title>
+  <defs>
+    <linearGradient id="bg-atl" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#121a2f"/>
+    </linearGradient>
+    <radialGradient id="glow-atl" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#fbbf24" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1216" height="210" rx="16" fill="url(#bg-atl)"/>
+  <rect width="1216" height="210" rx="16" fill="url(#glow-atl)"/>
+  <rect x="0.5" y="0.5" width="1215" height="209" rx="16" fill="none" stroke="#2a3550"/>
+  <text x="40" y="50" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#94a3b8">AI ENGINEER · ATLANTIC PACKAGING · JUN 2026 – NOW</text>
+  <text x="40" y="128" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="-1" fill="#2dd4bf">1,000+</text><text x="40" y="158" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#cbd5e1">orders submitted by the AI</text><text x="40" y="181" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#94a3b8">PO processor in 3 months</text><line x1="310" y1="78" x2="310" y2="180" stroke="#2a3550"/><text x="330" y="128" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="-1" fill="#fbbf24">$150K+</text><text x="330" y="158" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#cbd5e1">vendor quote replaced by an</text><text x="330" y="181" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#94a3b8">in-house sales tax monitor</text><line x1="600" y1="78" x2="600" y2="180" stroke="#2a3550"/><text x="620" y="128" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="-1" fill="#a78bfa">$164M</text><text x="620" y="158" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#cbd5e1">of intercompany transfers found</text><text x="620" y="181" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#94a3b8">overstating two years of sales</text><line x1="890" y1="78" x2="890" y2="180" stroke="#2a3550"/><text x="910" y="128" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="-1" fill="#4ade80">100+</text><text x="910" y="158" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#cbd5e1">repositories searchable in</text><text x="910" y="181" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#94a3b8">plain language through RAG</text>
+</svg>

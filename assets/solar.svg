@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260" viewBox="0 0 600 260" role="img" aria-label="Solar &amp; geomagnetic forecasting: −45% sunspot RMSE with VAR(4) vs. ARIMA">
+  <title>Solar &amp; geomagnetic forecasting</title>
+  <defs>
+    <linearGradient id="bg-solar" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#121a2f"/>
+    </linearGradient>
+    <radialGradient id="glow-solar" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#fbbf24" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="260" rx="16" fill="url(#bg-solar)"/>
+  <rect width="600" height="260" rx="16" fill="url(#glow-solar)"/>
+  <rect x="0.5" y="0.5" width="599" height="259" rx="16" fill="none" stroke="#2a3550"/>
+  <rect x="0" y="28" width="5" height="44" rx="2.5" fill="#fbbf24"/>
+  <text x="32" y="60" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#e6edf3">Solar &amp; geomagnetic forecasting</text>
+  <text x="32" y="132" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1" fill="#fbbf24">−45%</text>
+  <text x="32" y="162" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#94a3b8">sunspot RMSE with VAR(4) vs. ARIMA</text>
+  <text x="32" y="198" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#cbd5e1">60 years of NOAA data, forecast six years out</text>
+  <rect x="32" y="214" width="33" height="30" rx="15" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.45"/><text x="44" y="233" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#fbbf24">R</text><rect x="75" y="214" width="96" height="30" rx="15" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.45"/><text x="87" y="233" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#fbbf24">forecast</text><rect x="181" y="214" width="51" height="30" rx="15" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.45"/><text x="193" y="233" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#fbbf24">MTS</text>
+  
+</svg>
